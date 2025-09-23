@@ -1,28 +1,32 @@
-# 👋 Olá! Bem-vindo ao meu perfil no GitHub.
-## Meu nome é!
+Olá, meu nome é Cristyan 👋
+Com uma base sólida em suporte técnico e infraestrutura, estou em transição de carreira para a área de desenvolvimento de software, onde aplico minha paixão por resolver problemas para construir aplicações eficientes e intuitivas. Minha experiência prática me dá uma perspectiva única sobre as necessidades do usuário final, e estou animado para combinar isso com meu conhecimento em programação para criar soluções de alto impacto.
 
-💻 ...
-📚 ...
-💡 ...
+🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia.
 
-<div>
+🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.
+
+🤝 Aberto a colaborações e novos desafios na área de desenvolvimento de software.
+
+📫 Você pode me encontrar em: cristyannevessilva@gmail.com
+
+<br/>
+
+
+<div align="center">
 <a href="https://github.com/cristyansilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcristyansilva&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 </div>
 
+💻 Tecnologias e Ferramentas
+Estas são algumas das tecnologias com as quais já trabalhei e venho me aprofundando:
 
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,javascript,python,php,mysql,postgres,git,vscode,postman%26perline%3D5" />
+</a>
+</p>
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-      
-## 📫 Contatos:
-
-<a href="https://www.linkedin.com/in/cristyandns/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-          
-
-          
+📫 Onde me encontrar:
+<a href="https://www.linkedin.com/in/cristyandns/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
