@@ -2,7 +2,7 @@
 
 Com uma base sólida em suporte técnico e infraestrutura, estou em transição de carreira para a área de desenvolvimento de software, onde aplico minha paixão por resolver problemas para construir aplicações eficientes e intuitivas. Minha experiência prática me dá uma perspectiva única sobre as necessidades do usuário final, e estou animado para combinar isso com meu conhecimento em programação para criar soluções de alto impacto.
 
-🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia.
+🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia. 
 
 🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.
 
