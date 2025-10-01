@@ -1,19 +1,16 @@
-##  Olá, meu nome é Cristyan 👋
+# 👋 Olá! Bem-vindo ao meu perfil no GitHub.
+## Meu nome é Marlon!
 
-Com uma base sólida em suporte técnico e infraestrutura, estou em transição de carreira para a área de desenvolvimento de software, onde aplico minha paixão por resolver problemas para construir aplicações eficientes e intuitivas. Minha experiência prática me dá uma perspectiva única sobre as necessidades do usuário final, e estou animado para combinar isso com meu conhecimento em programação para criar soluções de alto impacto.
+💻 Sou Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e atualmente curso ADS na FMP.
 
-🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia. 
+📚 Tenho estudado e explorado novas tecnologias na área de desenvolvimento de sistemas, aproveitando e me divertindo com o processo.
 
-🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.
-
-🤝 Aberto a colaborações e novos desafios na área de desenvolvimento de software.
-
-📫 Você pode me encontrar em: cristyannevessilva@gmail.com
+💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo..
 
 <div>
-<a href="https://github.com/cristyansilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/omrlns">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrlns&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=omrlns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌱 Estou Aprendendo
@@ -23,12 +20,13 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
       
 ## 📫 Contatos:
 
-<a href="https://www.linkedin.com/in/cristyandns/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marlonds" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+          
+
+          
