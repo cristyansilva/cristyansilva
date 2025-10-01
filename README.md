@@ -31,6 +31,7 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
       
 ## 📫 Contatos:
 
-<a href="https://www.linkedin.com/in/cristyandns/" target="_blank">
+<a href="https://www.linkedin.com/in/cristyandns/" onclick="window.open(this.href); return false;">
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
