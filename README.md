@@ -12,8 +12,6 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 
 <div>
 ![Cristyan GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula&hide=TeX,JSON,Markdown&cache_seconds=1800)
 </div>
 
