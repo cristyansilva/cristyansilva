@@ -10,7 +10,6 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 
 📫 Você pode me encontrar em: cristyannevessilva@gmail.com
 
-<br/>
 <div>
 <a href="https://github.com/cristyansilva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula"/>
