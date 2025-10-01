@@ -1,11 +1,14 @@
-# 👋 Olá! Bem-vindo ao meu perfil no GitHub.
-## Meu nome é Marlon!
+##  Olá, meu nome é Cristyan 👋
 
-💻 Sou Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e atualmente curso ADS na FMP.
+Com uma base sólida em suporte técnico e infraestrutura, estou em transição de carreira para a área de desenvolvimento de software, onde aplico minha paixão por resolver problemas para construir aplicações eficientes e intuitivas. Minha experiência prática me dá uma perspectiva única sobre as necessidades do usuário final, e estou animado para combinar isso com meu conhecimento em programação para criar soluções de alto impacto.
 
-📚 Tenho estudado e explorado novas tecnologias na área de desenvolvimento de sistemas, aproveitando e me divertindo com o processo.
+🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia. 
 
-💡 Sou novo na área tech, mas espero que em breve possa contribuir para o desenvolvimento de novas ferramentas e soluções para o mundo..
+🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.
+
+🤝 Aberto a colaborações e novos desafios na área de desenvolvimento de software.
+
+📫 Você pode me encontrar em: cristyannevessilva@gmail.com
 
 <div>
 <a href="https://github.com/omrlns">
