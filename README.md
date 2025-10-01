@@ -13,9 +13,13 @@ Minha experiência prática me dá uma perspectiva única sobre as necessidades 
 
 ## 📊 Estatísticas do GitHub  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula)  
+<!-- GitHub Stats -->
+![Cristyan GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Cristyan GitHub stats](https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&langs_count=7&theme=dracula&hide=TeX,JSON,Markdown&cache_seconds=1800)
+
+> ⚠️ Observação: se não houver dados suficientes em repositórios públicos, o "Top Languages" pode mostrar “no languages data”. Para resolver, faça commits em repositórios públicos ou adicione arquivos de código em linguagens que deseja contabilizar.
 
 ---
 
