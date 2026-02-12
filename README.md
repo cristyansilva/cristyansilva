@@ -12,7 +12,7 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 
 <div>
 <a href="https://github.com/cristyansilva">
-<img loading="lazy" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristyansilva&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
