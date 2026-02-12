@@ -10,11 +10,11 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 
 📫 Você pode me encontrar em: cristyannevessilva@gmail.com
 
-<div>
-<a href="https://github.com/cristyansilva">
-<img loading="lazy" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristyansilva&layout=compact"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&theme=dracula"/>
 </div>
+
 
 ## 🌱 Estou Aprendendo
 
