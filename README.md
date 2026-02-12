@@ -4,7 +4,7 @@ Com uma base sólida em suporte técnico e infraestrutura, estou em transição 
 
 🔭 Atualmente, estou focado em aplicar meus conhecimentos em projetos práticos que resolvem problemas do dia a dia. 
 
-🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.
+🌱 Aprimorando minhas habilidades em desenvolvimento back-end e na integração com bancos de dados.  
 
 🤝 Aberto a colaborações e novos desafios na área de desenvolvimento de software.
 
