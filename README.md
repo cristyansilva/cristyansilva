@@ -18,7 +18,7 @@
 
 ### 💡 Sobre mim
 
-Tenho uma base sólida em suporte técnico e infraestrutura — hoje cuido de TI de ponta a ponta em um ambiente de hospitalidade/food service, desde administração de sistemas até automação de processos. Estou usando essa vivência como trampolim para o desenvolvimento de software: entendo as dores do usuário final porque já estive do outro lado do chamado.
+Tenho uma base sólida em suporte técnico e infraestrutura, hoje cuido de TI de ponta a ponta em um ambiente de hospitalidade/food service, desde administração de sistemas até automação de processos. Estou usando essa vivência como trampolim para o desenvolvimento de software: entendo as dores do usuário final porque já estive do outro lado do chamado.
 
 - 🎓 Cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**
 - 🔭 Construindo um portfólio de projetos práticos para apoiar a transição de carreira
