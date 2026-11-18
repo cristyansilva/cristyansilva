@@ -67,8 +67,8 @@ Tenho uma base sólida em suporte técnico e infraestrutura, hoje cuido de TI de
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&theme=dracula" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cristyansilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyansilva&layout=compact&theme=dracula" />
 </p>
 
 ---
